@@ -1,0 +1,4 @@
+.DS_Store
+auth-schema.ts
+bun.lock
+node_modules

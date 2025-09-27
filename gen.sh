@@ -1,0 +1,1 @@
+rm -rf node_modules/ bun.lock && bun i && bunx @better-auth/cli@latest generate

@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@better-auth/sso": "latest",
+    "drizzle-orm": "latest",
+    "zod": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "latest"
+  }
+}
